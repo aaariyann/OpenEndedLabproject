@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1721843397 source:c:\users\ariyan siddique\desktop\project\eeefall23.a1.21\project\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<vector>
+
+1725799696 source:c:\users\ariyan siddique\desktop\helloworld\project\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<vector>
+
